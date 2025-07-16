@@ -75,8 +75,8 @@ The project includes several features such as:
 2. Compile the source files.
 3. Run the executable.
 4. Login with sample credentials:
-    - Username:
-    - Password:
+    - Username: User15
+    - Password: AAAA
 5. Explore the application features.
 
 
